@@ -1,0 +1,17 @@
+{
+  "name": "pedrohfreitas",
+  "version": "0.0.1",
+  "description": "Web Site about the developer Pedro Henrique Freitas",
+  "main": "index.js",
+  "repository": "https://github.com/1pedrohfreitas/pedrohfreitas.git",
+  "author": "Pedro Henrique Freitas <1pedrohfreitas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "scripts": {
+    "dev" : "next dev"
+  }
+}
